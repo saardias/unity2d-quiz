@@ -10,13 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 305491076538b324e9f7ccdee1fc0bc8, type: 3}
-  m_Name: New Question 2
+  m_Name: Question 3
   m_EditorClassIdentifier: 
-  question: What is the correct syntex for creating a new integer variable with an
-    initial value of 12?
+  question: 
   answers:
-  - int num = 12;
-  - int num = "12";
-  - Int num = 12;
-  - num = 12;
+  - 
+  - 
+  - 
+  - 
   correctAnswerIndex: 0
